@@ -53,12 +53,12 @@ pip install -r requirements.txt
 Ensure `requirements.txt` includes:
 
 ```
-numpy
-pandas
-nltk
-scikit-learn
-matplotlib
-joblib
+cycler==0.12.1
+joblib==1.5.1
+matplotlib==3.10.3
+numpy==2.3.0
+pandas==2.3.0
+scikit_learn==1.7.0
 ```
 
 ### Download NLTK stopwords:
